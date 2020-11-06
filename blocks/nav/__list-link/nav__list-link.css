@@ -1,0 +1,25 @@
+.nav__list-link {
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
+  margin: 0 9px;
+  font-size: 16px;
+  line-height: 18px;
+  color: #fff;
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+.nav__list-link:hover {
+  opacity: 0.7;
+}
+
+@media screen and (max-width: 568px){
+  .nav__list-link {
+    display: block;
+    margin: 16px 0;
+    font-size: 24px;
+    line-height: 24px;
+  }
+}

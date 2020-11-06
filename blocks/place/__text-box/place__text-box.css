@@ -1,0 +1,9 @@
+.place__text-box {
+  grid-area: text;
+}
+
+@media screen and (max-width: 568px){
+  .place__text-box {
+    margin: 0 16px;
+  }
+}

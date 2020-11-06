@@ -1,0 +1,17 @@
+.place__link {
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+  display: block;
+  margin: 12px 0 0;
+  color: #fff;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  transition: 0.5s;
+}
+
+.place__link:hover {
+  opacity: 0.4;
+}
