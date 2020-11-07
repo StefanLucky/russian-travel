@@ -8,3 +8,6 @@
 4. Изучена работа с ветками (branches) в гите.
 
 Используемые технологии: *html*, *css*, *git*, *Figma*
+
+###Ознакомиться с проектом можно по ссылке:
+https://stefanlucky.github.io/russian-travel/
